@@ -24,7 +24,7 @@ A replica of the SoundCloud website built using HTML, CSS, and JavaScript.
    git clone https://github.com/CosmoKramer0/SoundCloudReplica.git
    cd SoundCloudReplica
 2. **Open the project:**
-- Simply open index.html in your preferred web browser.
+- Simply open home.html in your preferred web browser.
 
 ### Screenshots
 
