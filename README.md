@@ -1,12 +1,14 @@
 # SoundCloudReplica
-A replica of the SoundCloud website built using HTML, CSS, and JavaScript. Features include audio playback, user interface design, and responsive layout.
+A replica of the SoundCloud website built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- **Audio Playback**: Stream and play audio tracks.
-- **Responsive Design**: Mobile-friendly and adapts to different screen sizes.
 - **User Interface**: Clean and modern UI inspired by SoundCloud.
-- **Interactive Elements**: JavaScript-powered interactivity.
+- **For Artists Page**: Dedicated page for artists to showcase and manage their tracks.
+- **Home Page**: Central hub for accessing various features and browsing content.
+- **About Us Page**: Information about the platform and its creators.
+- **Discover Page**: Explore new music and artists.
+- **Login and Sign Up Pages**: Secure user authentication and account creation.
 
 ## Getting Started
 
